@@ -1,4 +1,8 @@
+
+##### google homepage 
 ###### expected skills
+###### an oding project
+
 - Two ways to move a div around on the page
 - Stick a div onto the bottom or top of the page
 - Identify the background color of an existing webpage
